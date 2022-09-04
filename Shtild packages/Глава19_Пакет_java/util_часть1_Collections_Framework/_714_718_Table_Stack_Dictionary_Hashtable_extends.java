@@ -1,4 +1,0 @@
-package Глава19_Пакет_java.util_часть1_Collections_Framework;
-
-public class _714_718_Table_Stack_Dictionary_Hashtable_extends {
-}

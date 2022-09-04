@@ -1,4 +1,0 @@
-package Глава19_Пакет_java.util_часть1_Collections_Framework;
-
-public class _637_644_Table_Collection_List_SortedSet {
-}

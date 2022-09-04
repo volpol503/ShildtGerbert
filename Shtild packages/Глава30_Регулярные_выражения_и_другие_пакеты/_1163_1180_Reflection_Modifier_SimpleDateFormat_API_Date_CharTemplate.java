@@ -1,4 +1,0 @@
-package Глава30_Регулярные_выражения_и_другие_пакеты;
-
-public class _1163_1180_Reflection_Modifier_SimpleDateFormat_API_Date_CharTemplate {
-}

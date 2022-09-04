@@ -1,0 +1,4 @@
+package Глава29_Потоковый_прикладной_интерфейс_API;
+
+public class P1124_Table_Interface_BaseStream_Stream {
+}

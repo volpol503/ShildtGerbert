@@ -1,4 +1,0 @@
-package Глава25_Введение_в_библиотеку_AWT_работа_с_окнами_графикой_и_текстом;
-
-public class _948_976_Table_Classes_Awt_Font_FontMetrics {
-}

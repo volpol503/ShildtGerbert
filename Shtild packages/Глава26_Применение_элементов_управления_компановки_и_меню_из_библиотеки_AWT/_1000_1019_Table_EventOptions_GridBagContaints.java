@@ -1,4 +1,0 @@
-package Глава26_Применение_элементов_управления_компановки_и_меню_из_библиотеки_AWT;
-
-public class _1000_1019_Table_EventOptions_GridBagContaints {
-}
